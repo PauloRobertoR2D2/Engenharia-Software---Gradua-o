@@ -1,2 +1,3 @@
 # Engenharia Software - Graduação
-Graduação UEM2026
+Local para armazenar arquivos e exercícios do Curso de Engenharia de Software 2026 - da Universidade Estadual de Maringá
+
